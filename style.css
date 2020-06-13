@@ -1,9 +1,9 @@
   /* Global CSS Selectors */
 body {
-    background-color: orange;
+    background-color: #0378A6;
     padding: 0;
     margin:0 auto;
-    
+
 }
 h1,
 h2,
@@ -12,7 +12,7 @@ h4, a {
   font-family: "Oswald", sans-serif;
 }
 h2 {
-   font-size: 40px; 
+   font-size: 40px;
 }
 p,ul,ol{
     font-family: "Barlow Condensed", sans-serif;
@@ -23,7 +23,7 @@ p {
 }
 ul,ol {
   font-size: 25px;
-} 
+}
 
 li {
     margin-top: 20px;
@@ -32,7 +32,7 @@ li {
     height: 100%;
     border: black solid 2px;
     padding: 20px 20px 50px 20px;
-   
+
 }
 
 /* Navigation Bar */
@@ -61,7 +61,7 @@ li {
 /* Home Page  */
 #home-landing {
     height: 92vh;
-    background-image: url('https://www.seattlemag.com/sites/default/files/field/image/1211hottopicopne_0.jpg');
+    background-image: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fegrizzly305.files.wordpress.com%2F2012%2F06%2F3431189310_49e670ec66_o.jpg&f=1&nofb=1');
     background-repeat: no-repeat;
     background-size: 100% 100%;
     background-position:bottom center;
@@ -71,7 +71,7 @@ li {
 #home-landing h1 {
     font-size: 100px;
     color: black;
-    text-shadow: 5px 5px 8px yellow;
+    text-shadow: 5px 5px 8px #023E73;
 }
 
 #home-problem {
