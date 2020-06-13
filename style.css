@@ -69,9 +69,10 @@ li {
 }
 
 #home-landing h1 {
+    margin: 10%;
     font-size: 100px;
-    color: black;
-    text-shadow: 5px 5px 8px #023E73;
+    color: #f2f2f2;
+    text-shadow: 5px -5px 5px black;
 }
 
 #home-problem {
@@ -85,32 +86,32 @@ li {
 
 #learn-more-landing {
     height: 60vh;
-    background-image: url('https://images.squarespace-cdn.com/content/v1/59f5ff1d017db23d90cea3d5/1560131034442-WE6ZEMWJHBK2FZGB79AN/ke17ZwdGBToddI8pDm48kM4ZNaw6Dk7xLPpMpoBhiupZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyWg9wtMaqL83NuqvKe1EENysuH5srkQLVxFwLtQ6la99g4N48uc8Jecmd2El5IS04/yellow+bodega.jpg');
+    background-image: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.scitecheuropa.eu%2Fwp-content%2Fuploads%2F2018%2F10%2Findustrial-strategy-plastic-pollution.jpg&f=1&nofb=1');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom center;
     text-align: center;
 }
 #learn-more-landing h1 {
-   color: orange;
+   color: #F2F2F2;
    font-size:100px;
-   text-shadow: 5px 5px 5px black;
+   text-shadow: 10px 5px 5px black;
 }
 
 /* People Impacted Page */
 
 #people-impacted-landing {
     height: 60vh;
-    background-image: url('https://upload.wikimedia.org/wikipedia/commons/4/45/Boston_corner_shop.jpg');
+    background-image: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd279m997dpfwgl.cloudfront.net%2Fwp%2F2019%2F04%2F0425_baltimore-trash04.jpg&f=1&nofb=1');
     background-repeat: no-repeat;
     background-size: cover;
     background-position :center;
     text-align: center;
 }
 #people-impacted-landing h1 {
-   color: orange;
-   text-shadow: 5px 5px 5px black;
-   font-size:100px;
+  color: #F2F2F2;
+  font-size:100px;
+  text-shadow: 10px 5px 5px black;
 }
 
 
@@ -118,16 +119,16 @@ li {
 
 #resources-landing {
     height: 60vh;
-    background-image: url('https://d3i6fh83elv35t.cloudfront.net/newshour/app/uploads/2015/08/GettyImages-97102000-1024x683.jpg');
+    background-image: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.M3nVespggIeUyNZQys8FQAHaEK%26pid%3DApi&f=1');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top center;
     text-align:center;
 }
 #resources-landing h1 {
-   color: orange;
-   text-shadow: 5px 5px 5px black;
-   font-size:100px;
+  color: #F2F2F2;
+  font-size:100px;
+  text-shadow: 10px 5px 5px black;
 }
 
 
@@ -135,16 +136,16 @@ li {
 /* About the Developer Page  */
 #about-the-developer {
     height: 60vh;
-    background-image: url('https://i.ytimg.com/vi/xMtqVC62q6o/maxresdefault.jpg');
+    background-image: url('https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fproductiveinsights.com%2Fwp-content%2Fuploads%2F2013%2F12%2FComputer-Code-image-Depositphotos_15383137_m.jpg&f=1&nofb=1');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom center;
     text-align:center;
 }
 #about-the-developer h1 {
-   color: orange;
-   text-shadow: 5px 5px 5px black;
-   font-size:100px;
+  color: #F2F2F2;
+  font-size:100px;
+  text-shadow: 10px 5px 5px black;
 }
 #seneca {
     text-align: center;
